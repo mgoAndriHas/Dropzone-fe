@@ -22,7 +22,7 @@ export default function UploadFile() {
       const formData = new FormData();
       formData.append("file", file.file);
       axios
-        .post("http://localhost:5001/upload", formData)
+        .post("http://54.179.131.211:5001/upload", formData)
         .then((res) => console.log(res))
         .catch((err) => console.log(err));
 
