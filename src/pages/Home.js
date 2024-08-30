@@ -9,6 +9,7 @@ export default function Home() {
         <Navbar />
         <h1>Home</h1>
         <p>Ini Halaman Home</p>
+        <p>Update Data</p>
         <UploadFile />
       </div>
     </>
