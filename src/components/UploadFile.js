@@ -22,7 +22,7 @@ export default function UploadFile() {
       const formData = new FormData();
       formData.append("file", file.file);
       axios
-        .post("http://petitemart.click:5001/profile", formData)
+        .post("https://petitemart.click:5001/profile", formData)
         .then((res) => console.log(res))
         .catch((err) => console.log(err));
 
