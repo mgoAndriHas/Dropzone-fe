@@ -11,6 +11,7 @@ export default function Home() {
         <p>Ini Halaman Home</p>
         <p>Update Data</p>
         <p>Tambah data baru</p>
+        <h2>Tambah Text 22.45</h2>
         <UploadFile />
       </div>
     </>
