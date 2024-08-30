@@ -12,7 +12,7 @@ export default function Home() {
         <p>Update Data</p>
         <p>Tambah data baru</p>
         <h2>Tambah Text 22.45</h2>
-        <h2>Tambah Text 23.18 - Baru</h2>
+        <h2>Tambah Text 23.18 - Baru Update</h2>
         <UploadFile />
       </div>
     </>
